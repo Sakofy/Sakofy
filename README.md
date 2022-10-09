@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thema892
-- 👀 I’m interested in lua
-- 🌱 I’m currently learning lua
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord : .thema#2083
 
