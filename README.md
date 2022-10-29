@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord : .thema#2083
+- 📫 How to reach me discord : Sakofy#5945
 
 <!---
 thema892/thema892 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
