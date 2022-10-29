@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thema892
+- 👋 Hi, I’m @Sakofy
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
