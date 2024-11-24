@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakofy
 - 👀 I’m interested in lua, python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning PHP, Javascript
 - 📫 How to reach me discord : @synapse_.
 
 <!---
